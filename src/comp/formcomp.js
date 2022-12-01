@@ -38,7 +38,7 @@ export const FormComp =()=> {
 
             {addbtn ? <button onClick={Addname}>UPDATE</button>:<button onClick={Addname}>ADD_NAME</button>}
 
-            <table>
+            <table> 
                 <thead>
                     <tr>
                         <td>FIRST_NAME</td>
